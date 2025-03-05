@@ -1,5 +1,5 @@
 # 💫 About Me:
-.NET Developer работаю на платформе .NET 8-9<br>Работаю Docker, EF Core, MSSQL и PostgreSQL<br>
+.NET Backend Developer работаю на платформе .NET и .Framework
 
 
 # 💻 Tech Stack:
