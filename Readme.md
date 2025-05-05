@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend стек на платформе .NET или .Framework, PostgreSQL, ASP .NET Core API
+Backend стек на платформе .NET или .Framework, PostgreSQL, ASP .NET Core API <br/>
 Frontend стек на фреймворке Angular + TS
 
 
