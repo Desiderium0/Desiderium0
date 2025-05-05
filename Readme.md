@@ -1,5 +1,6 @@
 # 💫 About Me:
-.NET Backend Developer работаю на платформе .NET и .Framework
+Backend стек на платформе .NET или .Framework, PostgreSQL, ASP .NET Core API
+Frontend стек на фреймворке Angular + TS
 
 
 # 💻 Tech Stack:
