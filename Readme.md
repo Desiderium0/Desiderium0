@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend стек на платформе .NET или .Framework, PostgreSQL, ASP .NET Core API <br/>
+Backend стек на платформе .NET Core (API), EF Core, PostgreSQL, NoSQL/Redis, RabbitMQ <br/>
 Frontend стек на фреймворке Angular + TS
 
 
